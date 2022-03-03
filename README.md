@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sodaapps
+- 👀 I’m interested in web design and helping the end user create and build websites with ease
+- 🌱 I’m currently learning vuejs, jekyll, python, haskell, and much more!
+- 💞️ I’m looking to collaborate on website builder projects
+- 📫 Reach use at sodaappsllc@gmail.com
